@@ -2,7 +2,7 @@
 
 
 # GuncelleME
-ALLAH'IN izniyle, tüm güncellemeleri durdur
+Biiznillah tüm güncellemeleri durdur
 
 
 Bu uygulama windows 10 işletim sisteminde çalışmakta olan uygulamaları durdurmak için yazılmıştır. Uygulama hem istenilen uygulama için internet bağlantısını keser, hem de windows update işlemlerini durdurur.
